@@ -1,0 +1,12 @@
+1.flash download tool 3.9.5
+2.烧录文件是ESP32_GENERIC_S3-20230426-v1.20.0.bin（官网下载bin）
+3.SPI SPEED ： 40MHz
+4.SPI MODE ： DIO
+5.波特率 ： 115200
+6.按住boot插USB
+7.松开boot
+8.按ERASE等待完成
+9.按START等待完成
+10.上Thonny测试看看是否有boot.py文件，没有就说明寄了
+
+
