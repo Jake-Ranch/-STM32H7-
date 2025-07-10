@@ -1,0 +1,12 @@
+brightness=2#亮度
+green = [brightness, 0, 0]#GRB
+red = [0, brightness, 0]
+blue = [0, 0, brightness]
+black = [0, 0, 0]  # 黑色
+white = [brightness, brightness, brightness]  # 白色
+grey = [brightness//2, brightness//2, brightness//2]  # 灰色
+yellow = [brightness,brightness, 0]#黄色
+cyan= [brightness, 0, brightness]#青色
+purple=[0, brightness, brightness]#紫色
+khaki=[brightness,brightness,brightness//2]#卡其色
+orange=[brightness//2,brightness,0]
